@@ -51,3 +51,8 @@ The application does not automatically delete files.
 - Sortable results table
 - File-type filters
 - Windows executable packaging
+
+
+## Screenshot
+
+![File Detective Haki Edition](file-detective.png)
